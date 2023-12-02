@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on electrician
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with ...
+- 🤔 I'm looking for help to improve myself in programming.
 - 💬 Ask me about ...
 - 📫 How to reach me: orhankoc52@gmail.com
 - 😄 Pronouns: he/him
