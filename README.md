@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming.
 - 📫 How to reach me: orhankoc52@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Sergili Friend;
+- ⚡ Fun fact: My dear friend;
 I am Santa Claus' Second Left Reindeer; But I want to work harder and be the first... I know I will rise faster if I work with you...
 NOTE: If there is something you want from Santa Claus, I will talk to you, he will not offend me...
 Shengis
