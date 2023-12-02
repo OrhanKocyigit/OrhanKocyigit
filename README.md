@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=OrhanKocyigit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/OrhanKocyigit/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=OrhanKocyigit&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/OrhanKocyigit/github-readme-stats#gh-light-mode-only)
+
+
 -->
