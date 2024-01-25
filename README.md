@@ -6,7 +6,5 @@
 About me;
 
 - 🌱 I’m currently learning Java.
-- 🤔 I'm looking for help to improve myself in programming.
-- 💬 Ask me about programming.
+- 🤔 I'm interested in improving myself in programming.
 - 📫 How to reach me: orhankoc52@gmail.com
-- 😄 Pronouns: he/him
