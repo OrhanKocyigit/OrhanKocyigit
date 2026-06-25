@@ -1,10 +1,26 @@
-### Hi there 👋
+Hi, I'm Orhan 👋
 
+Cyber Security enthusiast focused on Security Operations (SOC), SIEM, Network Security and System Administration.
 
-**OrhanKocyigit/OrhanKocyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies
+IBM QRadar
+Splunk
+Wireshark
+Nessus
+CrowdStrike Falcon
+TheHive
+FlareVM
+Kali Linux
+Java
+SQL
+Current Repositories
+SOC Laboratory
+Network Analysis
+Vulnerability Assessment
+Java Projects
 
-About me;
+📍 Cologne, Germany
 
-- 🌱 I’m currently learning Java.
-- 🤔 I'm interested in improving myself in programming.
-- 📫 How to reach me: orhankoc52@gmail.com
+📧 orhankoc52@gmail.com
+
+💼 LinkedIn: linkedin.com/in/orhan-kocyigit
